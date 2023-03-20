@@ -1,3 +1,4 @@
+"""
 #data types
 """Data can be of any type
 """
@@ -33,3 +34,11 @@ print(" I am \"I am Dr Mark\", said the scallywag")
 print(" I am 'I am Dr Mark', said the scallywag")
 print(" I am \"I am Dr Mark\", said the scallywag \n 'no you are not, I replied" )
 print("We can suppress the (\) character by using another (\\). \n this is how to escape the backslash \\ character")
+"""
+
+def add(x,y)
+   result = x + y
+   return result
+def sub(x,y)
+   result = x + y
+   return result
